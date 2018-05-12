@@ -25,6 +25,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Jan_Smuts
 description: 'First published anonymously, in Dutch, under title: Een eeuw van onrecht.
   Also published in English under title: A century of injustice.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15175#A-Century-of-Wrong
 gutenberg_issued: '2005-02-25'
 gutenberg_type: Text
 identifiers:
