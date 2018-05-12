@@ -1,0 +1,41 @@
+_repo: A-Century-of-Wrong_15175
+_version: 0.1.0
+contributor:
+  other_contributor:
+    agent_name: Reitz, Francis William
+    alias: Reitz, F. W. (Francis William)
+    birthdate: 1844
+    deathdate: 1934
+    gutenberg_agent_id: '5903'
+    url: http://www.gutenberg.org/2009/agents/5903
+    wikipedia: http://en.wikipedia.org/wiki/Francis_William_Reitz
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smuts, Jan Christiaan
+    aliases:
+    - Smuts, J. C. (Jan Christiaan)
+    - Smuts, Jan Christian
+    birthdate: 1870
+    deathdate: 1950
+    gutenberg_agent_id: '39144'
+    url: http://www.gutenberg.org/2009/agents/39144
+    wikipedia: http://en.wikipedia.org/wiki/Jan_Smuts
+description: 'First published anonymously, in Dutch, under title: Een eeuw van onrecht.
+  Also published in English under title: A century of injustice.'
+gutenberg_issued: '2005-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Causes'
+- !lcsh 'South Africa -- History'
+- !lcc 'DT'
+title: A Century of Wrong
+url: http://www.gutenberg.org/ebooks/15175
